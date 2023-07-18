@@ -22,6 +22,11 @@ namespace NestedObjects
         public string LastName { get; set; }
 
         /// <summary>
+        /// Date of birth
+        /// </summary>
+        public DateOnly DateOfBirth { get; set; }
+
+        /// <summary>
         /// Assigned school email address
         /// </summary>
         public string SchoolEmail { get; set; }

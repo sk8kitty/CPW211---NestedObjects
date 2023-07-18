@@ -17,7 +17,7 @@ namespace NestedObjects
         public string FullName { get; set; }
 
         /// <summary>
-        /// Assigned work email
+        /// Assigned work email address
         /// </summary>
         public string Email { get; set; }
 
